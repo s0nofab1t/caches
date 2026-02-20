@@ -1,2 +1,0 @@
-@PACKAGE_INIT@
-include("@PACKAGE_CMAKE_INSTALL_LIBDIR@/@PROJECT_NAME@/caches-targets.cmake")
